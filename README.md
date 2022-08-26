@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AmirAli-Kalbasi
+- 👋 Hi, I’m @AmirAli.Kalbasi
 - 👀 I’m interested in deep learning and neuroscience
-- 📫 My EMAIL: Kalbasi.a.a.7@gmail.com
+- 📫 My EMAIL: Kalbasi.a.a.7@gmail.com, amiralikalbasii@gmail.com
 
 <!---
 AmirAli-Kalbasi/AmirAli-Kalbasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
