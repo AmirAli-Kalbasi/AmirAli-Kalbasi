@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AmirAli.Kalbasi
+- 👋 Hi, I’m AmirAli Kalbasi
+- امیرعل کلباسی
 - 👀 I’m interested in deep learning and neuroscience
 - 📫 My EMAIL: Kalbasi.a.a.7@gmail.com, amiralikalbasii@gmail.com
 
