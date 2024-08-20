@@ -1,7 +1,6 @@
 <meta name="google-site-verification" content="PCwZwtNo_G1oA2P9CX-YEGgMNPVT2ouN77KXKd0MX9g" />
 
 - 👋 Hi, I’m AmirAli Kalbasi
-- امیرعلی کلباسی
 - 👀 I’m interested in data analysis and automated decision making.
 - 📫 My EMAIL: Kalbasi.a.a.7@gmail.com
 
